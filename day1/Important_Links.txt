@@ -1,0 +1,5 @@
+1. Download Ganache - https://archive.trufflesuite.com/ganache/
+
+2. How to get free sepolia test eth - https://blog.chain.link/sepolia-eth/
+
+3. Platform to learn solidity - https://cryptozombies.io/
